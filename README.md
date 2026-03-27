@@ -7,13 +7,13 @@ The Pd version I used was 0.56.2 and the following libraries are necessary to ru
 - FluidCorpusManipulation
 - oscP5 in Processing
 
-As this patch is custom made for my specific Raspberry Pi 5 setup, the playability is quite limited. If you have the necessary hardware, these are the steps to get this to run.
-1. Ensure all libraries are installed via Deken
-2. Make sure you are running on a sample rate of 44.1khz
-3. Open _main.pd
-4. Change the devicename for the comport object to your device
-5. Output values from a microcontroller should be between 0 and 1022 (the code I used is also included)
-6. Run the Processing patch and make sure both sides are connected over the correct OSC ip adress.
+As this patch is custom-made for my specific Raspberry Pi 5 setup, the playability is quite limited. If you have the necessary hardware, these are the steps to get this to run:
+1. Ensure all libraries are installed via Deken.
+2. Make sure you are running on a sample rate of 44.1 kHz.
+3. Open _main.pd.
+4. Change the devicename message box in front of the comport object to your device.
+5. Output values from a microcontroller should be between 0 and 1022 (the code I used is also included).
+6. Run the Processing patch and make sure both sides are connected over the correct OSC IP address.
 7. Use the mouse movement to control the neural network.
 
 
