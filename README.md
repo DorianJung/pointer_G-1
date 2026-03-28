@@ -20,3 +20,5 @@ As this patch is custom-made for my specific Raspberry Pi 5 setup, the playabili
 This is the device that's running the patch. A separate repository is coming soon.
 
 ![Image1](https://github.com/user-attachments/assets/4a28dc39-c1f8-4987-92e3-356913420f2e)
+
+![Image2](https://github.com/user-attachments/assets/c60a6d91-93b8-4408-b6d8-ecbd94c111ca)
